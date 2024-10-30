@@ -1,0 +1,10 @@
+[package]
+name = "anglekit"
+version = "0.1.0"
+authors = ["bensatlantik"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+
+
