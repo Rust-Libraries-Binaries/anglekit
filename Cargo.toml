@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["bensatlantik"]
 edition = "2021"
 license = "MIT"
+description = "A Rust library for converting angles between degrees and radians."
+repository = "https://github.com/bensatlantik/anglekit"
 
 [dependencies]
 
