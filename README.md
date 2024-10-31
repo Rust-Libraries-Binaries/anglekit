@@ -28,3 +28,5 @@ fn main() {
 
 This project is licensed under the MIT License.
 
+## Author
+Ben Santora (<bensatlantik@gmail.com>)
