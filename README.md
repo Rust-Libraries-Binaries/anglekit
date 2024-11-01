@@ -10,9 +10,9 @@ Add **anglekit** to your `Cargo.toml`:
 [dependencies]
 anglekit = "0.1.0"
 ```
-## Examplesuse anglekit::{degrees_to_radians, radians_to_degrees};
-
+## Examples
 ```rust
+use anglekit::{degrees_to_radians, radians_to_degrees};
 
 fn main() {
     let degrees = 90.0;
